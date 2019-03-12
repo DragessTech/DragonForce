@@ -3,7 +3,7 @@ html, body{
 	margin: 0;
 }
 header{
-	background-color: #00004C;
+	background-color: #666600;
 	padding: 40px;
 	text-align: center;
 }
@@ -15,8 +15,8 @@ h1{
 
 header img{
 	border-radius: 174px;
-	width: 300px;
-	border: 24px solid #CC0000;
+	width: 500px;
+	border: 12px solid #CC0000;
 	
 }
 
@@ -60,4 +60,8 @@ footer ul{
 footer ul li{
 	display: inline-block;
 	margin: 0 5px;
+}
+
+#audio{
+	text-align: center;
 }
