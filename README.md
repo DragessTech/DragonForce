@@ -1,2 +1,1 @@
-# cartoon-hero
-A website about my cartoon hero
+# Fansite for Dragon Force(Sega Saturn Version)
